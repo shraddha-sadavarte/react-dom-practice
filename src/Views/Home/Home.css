@@ -1,0 +1,14 @@
+.home-container{
+    width: 100vh;
+    height: 100vh;
+    background-color: green;
+    border: 2px solid rgb(196, 240, 196);
+    box-shadow: 0 0 3px 4px lightgreen;
+    padding: 20px;
+}
+.home{
+    color: blueviolet;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
